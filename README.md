@@ -9,3 +9,4 @@
 # Random List Selector
 # Shape Specification
 # Test Adventure
+#The link to the major group project is https://github.com/oflatt/pythonRpgProject
